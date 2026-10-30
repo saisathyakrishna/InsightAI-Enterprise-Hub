@@ -1,0 +1,5 @@
+,MAE,RMSE,MAPE,within_tol,direction_accuracy,precision,recall,f1
+Full InsightAI,13.1973,19.4149,10.165,0.36,0.46,0.4,0.8421,0.5424
+w/o TS-RAG,12.8399,19.3836,9.7976,0.3,0.44,0.3636,0.6316,0.4615
+w/o committee (single agent),12.9999,19.3734,9.9655,0.34,0.46,0.4,0.8421,0.5424
+XGBoost only,7.5393,12.815,5.6691,0.6,0.68,0.5714,0.6316,0.6
